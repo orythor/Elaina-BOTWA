@@ -14,21 +14,21 @@ JANGAN DIHAPUS, RECODE SILAHKAN TAPI DILARANG KERAS UNTUK HAPUS CREDITS
 
 global.versi = '1.00.0.1'
 global.botname = ["ᴇʟᴀɪɴᴀ ᴍᴅ"]
-global.botnumber = ["6288-xxxxc-xxxx-xx3"]
-global.websitex = ['https://myportfolio-nu-dusky.vercel.app/']
-global.qris = "https://tmpfiles.org/dl/14330235/tmp.jpg"
+global.botnumber = ["9647807281908"]
+global.websitex = ['https://portal-nimecun.netlify.app']
+global.qris = "https://files.catbox.moe/ruiq7u.jpg"
 global.packname = 'ᴇʟᴀɪɴᴀ ᴍᴅ'
 global.author = 'ᴇʟᴀɪɴᴀ ᴍᴅ'
 
 global.owner = [
-  "6285813708397", //ganti nomor biar bot nya Respon 
+  "6285138201049", //ganti nomor biar bot nya Respon 
   "" //nomor owner kedua kalo ada
 ]
 //===================[ GROUP AND SALURAN ]=====================\\
-global.linknya = 'https://whatsapp.com/channel/0029VaBOlsv002TEjlntTE2D'
-global.idsaluran2 = ['120363186130999681@newsletter']
+global.linknya = 'https://whatsapp.com/channel/0029Vb8aoA7ICVfjmMmlOS37'
+global.idsaluran2 = ['xxxxxx']
 //===================[ FUNCTION LAIN NYA ]=====================\\
-global.fotonya2 = "https://telegra.ph/file/c5eb1485207e04371bc19.jpg"
+global.fotonya2 = "https://files.catbox.moe/22wik6.jpg"
 global.wlcm = []
 global.wlcmm = []
 global.limitawal = {
